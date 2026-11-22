@@ -24,7 +24,7 @@ Each diagram is a **documentation illustration**, not an application screenshot.
 **Dm7 → G7 → Cmaj7** in C major is **ii7 → V7 → Imaj7**. Dm7 is on the *minor inner ring*, at the position of F major (its relative-major pairing); G7 and Cmaj7 use G and C on the major ring.
 
 <figure class="hc-wheel-figure">
-  <img src="assets/functional-wheel.svg" alt="Illustrative Circle of Fifths with D minor on the inner ring, G major on the outer ring, and C major on the outer ring connected in sequence for ii–V–I." loading="lazy">
+  <img src="../assets/functional-wheel.svg" alt="Illustrative Circle of Fifths with D minor on the inner ring, G major on the outer ring, and C major on the outer ring connected in sequence for ii–V–I." loading="lazy">
   <figcaption class="hc-wheel-caption">Functional ii–V–I; a progression path connecting Dm, G, and C. The blue highlight describes the progression category, not fixed note colors.</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Each diagram is a **documentation illustration**, not an application screenshot.
 **C → G → Am → F** is **I → V → vi → IV** in C major. Am is on the *relative-minor inner ring* inside C, not the A-major wedge.
 
 <figure class="hc-wheel-figure">
-  <img src="assets/diatonic-wheel.svg" alt="Illustrative Circle of Fifths tracing C major, G major, A minor on C's inner ring, and F major, for I–V–vi–IV." loading="lazy">
+  <img src="../assets/diatonic-wheel.svg" alt="Illustrative Circle of Fifths tracing C major, G major, A minor on C's inner ring, and F major, for I–V–vi–IV." loading="lazy">
   <figcaption class="hc-wheel-caption">A familiar diatonic loop. The green path follows the chords in order.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Each diagram is a **documentation illustration**, not an application screenshot.
 **Cmaj7 → A7 → Dm7 → G7** is **Imaj7 → VI7 → ii7 → V7** in C major. A7 acts as a secondary dominant resolving toward Dm7.
 
 <figure class="hc-wheel-figure">
-  <img src="assets/dominant-wheel.svg" alt="Illustrative Circle of Fifths tracing C major, A major, D minor on the inner ring, and G major for a dominant turnaround." loading="lazy">
+  <img src="../assets/dominant-wheel.svg" alt="Illustrative Circle of Fifths tracing C major, A major, D minor on the inner ring, and G major for a dominant turnaround." loading="lazy">
   <figcaption class="hc-wheel-caption">A turnaround with secondary-dominant motion. The orange path illustrates harmonic motion, not an orange chord quality.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Each diagram is a **documentation illustration**, not an application screenshot.
 **C → E → A♭ → C** traces major-third root movement. It is an example of **geometric/symmetry-inspired harmony**, not a conventional ii–V–I. These are root positions; use the app's current suggestion and validation for the exact chord qualities.
 
 <figure class="hc-wheel-figure">
-  <img src="assets/caliper-wheel.svg" alt="Illustrative Circle of Fifths with C, E, and A-flat major-root positions connected in a triangular major-third cycle." loading="lazy">
+  <img src="../assets/caliper-wheel.svg" alt="Illustrative Circle of Fifths with C, E, and A-flat major-root positions connected in a triangular major-third cycle." loading="lazy">
   <figcaption class="hc-wheel-caption">Three major-third-spaced roots on the wheel. Purple communicates caliper-derived harmony—not a purple area assigned to those notes.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ Each diagram is a **documentation illustration**, not an application screenshot.
 **Needs Review** is a validation classification, **not a particular wheel shape**. We do not assign an example progression to this badge without confirming that the application's current validator returns the relevant ambiguous or invalid result. This diagram therefore shows a neutral wheel with an unresolved relationship, not a specific chord path.
 
 <figure class="hc-wheel-figure">
-  <img src="assets/review-wheel.svg" alt="Illustrative neutral Circle of Fifths with a question mark: Needs Review has no fixed pitch positions or progression path." loading="lazy">
+  <img src="../assets/review-wheel.svg" alt="Illustrative neutral Circle of Fifths with a question mark: Needs Review has no fixed pitch positions or progression path." loading="lazy">
   <figcaption class="hc-wheel-caption">Check the app's chord analysis and warnings to understand why a progression needs review.</figcaption>
 </figure>
 
