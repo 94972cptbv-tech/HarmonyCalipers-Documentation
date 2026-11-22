@@ -1,0 +1,58 @@
+site_name: Harmony Calipers
+site_description: Official help, guides, and support for the Harmony Calipers visual songwriting companion.
+site_url: https://94972cptbv-tech.github.io/HarmonyCalipers-Documentation/
+repo_url: https://github.com/94972cptbv-tech/HarmonyCalipers-Documentation
+repo_name: Harmony Calipers Documentation
+docs_dir: docs
+site_dir: site
+strict: true
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Quick Start: quick-start.md
+  - Guides:
+      - Harmony Wheel and Calipers: guides/harmony-wheel.md
+      - Suggested and Custom Progressions: guides/progressions.md
+      - Song Builder: guides/song-builder.md
+      - Piano and Fretted Instrument Charts: guides/instrument-charts.md
+      - Exporting Images and PDF Song Packs: guides/exports.md
+  - Harmony Concepts and Color Key: reference/harmony-concepts.md
+  - FAQ and Troubleshooting: troubleshooting.md
+  - Support: support.md
+  - Privacy Policy: privacy.md
+  - Release Notes: release-notes.md
