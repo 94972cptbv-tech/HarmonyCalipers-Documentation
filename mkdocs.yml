@@ -42,6 +42,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
+extra_css:
+  - stylesheets/harmony-key.css
+
 nav:
   - Home: index.md
   - Quick Start: quick-start.md

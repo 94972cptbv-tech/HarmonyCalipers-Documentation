@@ -1,0 +1,10 @@
+/* Docs-only illustration colors: representative system color swatches. Native SwiftUI colors can vary by appearance/platform. */
+.hc-color-swatch {display:inline-block;width:1.35rem;height:1.35rem;vertical-align:middle;border-radius:.3rem;border:1px solid currentColor;margin-right:.45rem;}
+.hc-functional {background:#0A84FF;}
+.hc-diatonic {background:#30D158;}
+.hc-dominant {background:#FF9F0A;}
+.hc-caliper {background:#BF5AF2;}
+.hc-review {background:#D6A536;}
+.hc-wheel-figure {max-width:32rem;margin:1.2rem auto 2rem;}
+.hc-wheel-figure img {display:block;width:100%;height:auto;}
+.hc-wheel-caption {font-size:.85rem;line-height:1.5;color:var(--md-default-fg-color--light);margin:.45rem 0 0;}
