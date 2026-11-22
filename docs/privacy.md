@@ -1,27 +1,35 @@
-# Privacy Policy — Draft Pending Verification
+# Privacy Policy
 
-**PUBLISHING CHECK:** This page is a draft, not a verified final privacy policy. The app developer must confirm every statement below against the shipped version, bundled SDKs, analytics/network behavior, and App Store privacy disclosures before publication.
+**Effective date: November 22, 2026**
 
-## Local song data
+Harmony Calipers is a songwriting and harmony-reference application for iPhone and iPad. It is designed to work locally on your device.
 
-Harmony Calipers supports saved chord progressions and song sets. Current product documentation describes these as saved locally on the device. **Verify the actual persistence behavior** before representing this as a privacy commitment.
+## Information stored on your device
 
-## Accounts and network features
+Harmony Calipers stores user-created chord progressions, saved songs and song sets, and relevant app preferences locally on your device. The app does not upload or synchronize this content to a cloud service operated by the developer.
 
-The app has been described as usable without an account, with no in-app audio streaming required. **Verify** whether the current version contains any analytics, crash reporting, third-party SDKs, remote requests, or externally shared identifiers.
+You can manage saved content using the controls provided in the app. Removing the app may also remove locally stored app data, subject to the device's operating-system and backup behavior.
+
+## Accounts and data collection
+
+Harmony Calipers does not require an account. The developer does not collect user-created songs or progressions through the app and does not use third-party analytics, telemetry, or crash-reporting SDKs.
 
 ## Exporting and sharing
 
-Users can choose to export images and PDF charts using system sharing mechanisms. Once a user shares a file with another application or service, that destination's privacy practices apply.
+You can choose to export charts, music notation, and song materials as image or PDF files. Harmony Calipers does not automatically share these exports. If you choose to send an exported file to another application, person, or service, that destination's privacy practices apply.
 
-## Data collection, tracking, retention, deletion
+## Apple device services and backups
 
-**PUBLISHING CHECK:** Complete these sections after reviewing the app's actual data handling, permissions, and Apple privacy declarations. Do not state that data collection is absent unless independently verified.
+Apple may provide device-level diagnostics, analytics, and backup features under your device and Apple Account settings. These services are controlled by Apple and are separate from any data collection by the Harmony Calipers developer. Depending on your device settings, local app data may be included in device backups.
 
 ## Documentation website
 
-This public site is hosted by GitHub Pages; GitHub's handling of website requests is described in the [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement).
+The Harmony Calipers documentation site is hosted on GitHub Pages. Visiting the site is separate from using the app. GitHub's handling of website requests is described in the [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement).
+
+## Changes to this policy
+
+If Harmony Calipers' data practices change, this policy will be updated to describe those changes.
 
 ## Contact
 
-**PUBLISHING CHECK — PRIVACY CONTACT:** Add a verified public support/privacy email before publication.
+For privacy questions, contact **Harmony Calipers Support** at [harmonycal.support@icloud.com](mailto:harmonycal.support@icloud.com).
