@@ -12,8 +12,10 @@ Harmony Calipers uses color-coded **progression categories** to describe harmoni
 | <span class="hc-color-swatch hc-caliper" aria-label="Purple color swatch"></span> Purple | **Caliper-derived** | Wheel relationships, modal color, or geometric harmony suggestions |
 | <span class="hc-color-swatch hc-review" aria-label="Amber/gold color swatch"></span> Amber | **Needs Review** | Ambiguous or experimental function that merits closer attention |
 
-!!! note "Color accuracy"
-    The app uses SwiftUI system blue, green, orange, and purple for these categories, and its `harmonyGold` color for Needs Review. The swatches shown here are **representative web colors**, not an exact colorimetric reproduction of iOS's appearance-dependent system colors. The Harmony Wheel's wedge colors are a separate visual design.
+!!! note "Understanding the Harmony Colors"
+    Harmony Calipers uses colors to help you quickly recognize different types of harmonic relationships. Each color represents a progression category, not a specific note, chord, or key. The colors of the Harmony Wheel itself serve a different visual purpose.
+
+    Use the category labels and highlighted chord relationships to understand how each progression works.
 
 ## See the relationships on the Harmony Wheel
 
