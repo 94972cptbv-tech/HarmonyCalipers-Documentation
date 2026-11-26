@@ -59,11 +59,19 @@ Each diagram is a **documentation illustration**, not an application screenshot.
 
 ### Amber — Needs Review
 
-**Needs Review** is a validation classification, **not a particular wheel shape**. We do not assign an example progression to this badge without confirming that the application's current validator returns the relevant ambiguous or invalid result. This diagram therefore shows a neutral wheel with an unresolved relationship, not a specific chord path.
+Some chord progressions don't fit neatly into a conventional harmonic pattern. They may combine different harmonic functions, use unexpected chord relationships, or contain chords that need closer examination.
+
+When Harmony Calipers displays **Needs Review**, it invites you to examine the progression more closely.
+
+This doesn't necessarily mean the progression is musically wrong. Some of the most interesting musical ideas come from exploring unexpected harmonic relationships.
+
+Use the chord analysis and Harmony Wheel to investigate how the chords relate to one another.
+
+*The question mark on the wheel represents a progression that deserves further exploration, rather than a specific harmonic relationship.*
 
 <figure class="hc-wheel-figure">
-  <img src="../assets/review-wheel.svg" alt="Illustrative neutral Circle of Fifths with a question mark: Needs Review has no fixed pitch positions or progression path." loading="lazy">
-  <figcaption class="hc-wheel-caption">Check the app's chord analysis and warnings to understand why a progression needs review.</figcaption>
+  <img src="../assets/review-wheel.svg" alt="Illustrative Circle of Fifths with a question mark representing a progression requiring further examination." loading="lazy">
+  <figcaption class="hc-wheel-caption">Explore the unexpected. Amber identifies a progression that may benefit from closer examination.</figcaption>
 </figure>
 
 ## Roman numerals versus wheel distance
